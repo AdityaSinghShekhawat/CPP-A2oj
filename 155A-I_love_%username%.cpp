@@ -25,7 +25,7 @@ int main()
             count++;
         }
     }
-    cout << count;
+    printf("%d", count);
 
     return 0;
 }
